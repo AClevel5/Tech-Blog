@@ -1,9 +1,9 @@
 :root {
-  --primary: #ccdad1;
-  --secondary: #9caea9;
+  --primary: #e2e2e2;
+  --secondary: #d8dbda;
   --tertiary: #788585;
-  --light-dark: #6f6866;
-  --dark: #38302e;
+  --light-dark: #80a8dc;
+  --dark: #020202;
   --border-radius: 0.3rem;
 }
 
@@ -59,11 +59,11 @@ p {
 }
 
 input {
-    width: 100%;
-    border: 1px solid #ccc;
-    background: #FFF;
-    margin: 0 0 5px;
-    padding: 10px;
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #FFF;
+  margin: 0 0 5px;
+  padding: 10px;
 }
 
 .card-header h2 {
