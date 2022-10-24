@@ -52,7 +52,6 @@ Comment.init(
   },
   {
     sequelize
-
   }
 );
 
