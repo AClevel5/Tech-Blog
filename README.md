@@ -11,6 +11,8 @@
 ## Description
 This project is a tech blog in which you can login/sign-up, once done you are able to create posts in a dashboard and than go to a home page to see all posts by all users. When clicking into a post you are then able to add comments to that specific post.
 
+https://alex-tech-blog7.herokuapp.com/
+
 ## Technologies
 - JavaScript
 - Node.js
